@@ -31,4 +31,3 @@ replay_pid*
 
 # Maintenance script
 git_maintainer.sh
-git_backdate.sh
